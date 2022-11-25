@@ -19,7 +19,6 @@
 <div align="center">
 <h2>:computer: Technologies</h2>  
 <p>These are some of the technologies and tools that I studied and I am improving my knowledge:</p>
-<br>  
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html5-logo" />
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="css3-logo" />
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="git-logo" />
@@ -27,7 +26,6 @@
 <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="vscode-logo"/>
 <br><br>  
 <p>Studying in this moment:</p>
-<br>  
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="javascript-logo">
 </div>
 
