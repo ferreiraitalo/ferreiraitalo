@@ -47,7 +47,7 @@
 <br>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img alt="github-activity-graph" src="https://activity-graph.herokuapp.com/graph?username=ferreiraitalo&bg_color=111821&color=fff&title_color=54B689&line=000&point=54B689&area=true&area_color=fff&hide_border=true" />
+<img alt="github-activity-graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=ferreiraitalo&bg_color=111821&color=fff&title_color=54B689&line=000&point=54B689&area=true&area_color=fff&hide_border=true" />
 </a>  
 
 <br><br>
