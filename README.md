@@ -5,13 +5,13 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=ferreiraitalo&title_color=54B689&border_color=000&text_color=fff&bg_color=111821" alt="Ítalo's-github-stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ferreiraitalo&title_color=54B689&border_color=000&text_color=fff&bg_color=111821" alt="Ítalo's-github-stats" /></a>
 </div>
 
 <br>
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferreiraitalo&title_color=54B689&border_color=000&text_color=fff&bg_color=111821" alt="top-langs" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ferreiraitalo&title_color=54B689&border_color=000&text_color=fff&bg_color=111821" alt="top-langs" /></a>
 </div>
 
 <br>
