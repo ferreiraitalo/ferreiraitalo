@@ -19,15 +19,15 @@
 <div align="center">
 <h2>:computer: Technologies</h2>  
 <p>These are some of the technologies and tools that I studied and I am improving my knowledge:</p>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html5-logo" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="css3-logo" />
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" alt="git-logo" />
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="github-logo" />
-<img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="vscode-logo"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5-logo" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3-logo" />
+<img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" alt="git-logo" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github-logo" />
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode-logo"/>
 <br><br>  
 <p>Studying in this moment:</p>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" alt="javascript-logo">
-<img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js" alt="node.js-logo">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript-logo">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="node.js-logo">
 </div>
 
 <div align="center">
